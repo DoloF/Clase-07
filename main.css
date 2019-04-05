@@ -1,0 +1,31 @@
+/* body { */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0,2cm;
+    background-color: rgb(236, 221, 205);
+}
+/* fieldset { */
+    background-color: rgb(126, 103, 230);
+}
+/* input{ */
+    background-color: rgb(240, 239, 169);
+    
+}
+/*PSEUDO CLASS*/
+/* input ::placeholder { */
+    color: dimgray;
+
+}
+/* a { */
+    color: darkcyan
+}
+input {
+    border: none
+}
+ select {
+    border:none
+}
+form:last-child > fieldset{
+background-color: rgb(237, 253, 16)
+}
+
+
